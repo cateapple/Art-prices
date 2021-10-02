@@ -1,5 +1,3 @@
 # Art-prices
 Project for ORIE 5741
-
-
-.pdf -> Paper that the data was taken from, includes a good explanation of the data
+by Younes Besouda, Louis St-Pierre, Catherine Appleby
